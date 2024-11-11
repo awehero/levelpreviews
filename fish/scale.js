@@ -1,4 +1,4 @@
-[
+var locations = [
     {
         "position": {
             "x": 0.2054632893127637,
